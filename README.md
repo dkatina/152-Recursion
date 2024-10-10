@@ -4,7 +4,7 @@
 - The students should be able to understand the importance of base cases in recursion and how they prevent infinite loops.
 
 #### Recursive Functions:
-Recursive functions are functions, that will call themselves conditionally until they reach a what we call a base case.
+Recursive functions are functions, that will call themselves conditionally until they reach what we call a base case.
 
 The base case represents the scenario which allows it to finally terminate/return.
 
